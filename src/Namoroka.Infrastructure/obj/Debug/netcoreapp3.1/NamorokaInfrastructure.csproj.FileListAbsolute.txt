@@ -1,0 +1,12 @@
+G:\Namoroka\src\NamorokaInfrastructure\bin\Debug\netcoreapp3.1\NamorokaInfrastructure.deps.json
+G:\Namoroka\src\NamorokaInfrastructure\bin\Debug\netcoreapp3.1\NamorokaInfrastructure.runtimeconfig.json
+G:\Namoroka\src\NamorokaInfrastructure\bin\Debug\netcoreapp3.1\NamorokaInfrastructure.runtimeconfig.dev.json
+G:\Namoroka\src\NamorokaInfrastructure\bin\Debug\netcoreapp3.1\NamorokaInfrastructure.dll
+G:\Namoroka\src\NamorokaInfrastructure\bin\Debug\netcoreapp3.1\NamorokaInfrastructure.pdb
+G:\Namoroka\src\NamorokaInfrastructure\obj\Debug\netcoreapp3.1\NamorokaInfrastructure.csprojAssemblyReference.cache
+G:\Namoroka\src\NamorokaInfrastructure\obj\Debug\netcoreapp3.1\NamorokaInfrastructure.AssemblyInfoInputs.cache
+G:\Namoroka\src\NamorokaInfrastructure\obj\Debug\netcoreapp3.1\NamorokaInfrastructure.AssemblyInfo.cs
+G:\Namoroka\src\NamorokaInfrastructure\obj\Debug\netcoreapp3.1\NamorokaInfrastructure.csproj.CoreCompileInputs.cache
+G:\Namoroka\src\NamorokaInfrastructure\obj\Debug\netcoreapp3.1\NamorokaInfrastructure.dll
+G:\Namoroka\src\NamorokaInfrastructure\obj\Debug\netcoreapp3.1\NamorokaInfrastructure.pdb
+G:\Namoroka\src\NamorokaInfrastructure\obj\Debug\netcoreapp3.1\NamorokaInfrastructure.genruntimeconfig.cache

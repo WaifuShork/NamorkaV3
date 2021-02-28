@@ -1,0 +1,1 @@
+java -jar src/Namoroka/LavaLink/Lavalink.jar
